@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Purple dark theme (default dark) -->
+    <color name="pro_primary">#FF7C4DFF</color>
+    <color name="pro_primary_variant">#FF651FFF</color>
+    <color name="pro_primary_container">#FF3700B3</color>
+    <color name="pro_secondary">#FF03DAC6</color>
+    <color name="pro_background">#FF121212</color>
+    <color name="pro_surface">#FF1E1E1E</color>
+    <color name="pro_on_surface">#FFE0E0E0</color>
+    <color name="pro_on_primary">#FFFFFFFF</color>
+</resources>

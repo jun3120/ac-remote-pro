@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.ACRemotePro" parent="Theme.Material3.Dark.NoActionBar">
+        <item name="colorPrimary">@color/pro_primary</item>
+        <item name="colorOnPrimary">@color/pro_on_primary</item>
+        <item name="colorPrimaryContainer">@color/pro_primary_container</item>
+        <item name="colorSecondary">@color/pro_secondary</item>
+        <item name="android:colorBackground">@color/pro_background</item>
+        <item name="colorSurface">@color/pro_surface</item>
+        <item name="colorOnSurface">@color/pro_on_surface</item>
+    </style>
+</resources>
